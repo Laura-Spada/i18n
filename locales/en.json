@@ -1,0 +1,5 @@
+{
+    "OK": "Everything is ok",
+    "HEALTH": "Server up",
+    "WELCOME": "Welcome, {name}"
+}
